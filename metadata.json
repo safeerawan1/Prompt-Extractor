@@ -1,0 +1,5 @@
+{
+  "name": "Shorts Prompt Extractor",
+  "description": "Upload a short video to analyze its style and generate a prompt to recreate it using AI video tools.",
+  "requestFramePermissions": []
+}
